@@ -1,0 +1,5 @@
+users:
+  - name: ""
+    emal: ""
+    team: ""
+    groups: [] # for permissions
